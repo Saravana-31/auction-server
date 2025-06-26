@@ -5,11 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index",
-    "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
+    "test": "echo \"Error: no test specified\" && exit 1"
+      
   },
   "author": "tanisha amin",
   "license": "ISC",
